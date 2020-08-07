@@ -17,7 +17,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
     <!-- DESCRIPCION -->Terraform es una herramienta de orquestación de código abierto desarrollado por Hashicorp que nos permite definir nuestra infraestructura como código, esto quiere decir que es posible escribir en un fichero de texto la definición de nuestra infraestructura usando un lenguaje de programación declarativo y simple.
     <br>
     Terraform tiene soporte para una gran cantidad de proveedores de infraestructura local o en la nube, Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform o VMware vSphere.
-    <br />
+    <br /><br />
     <a href="https://github.com/sergioalegre/Terraform"><strong>Explore the docs »</strong></a>
     <br />
     <br />
