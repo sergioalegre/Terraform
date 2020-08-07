@@ -28,10 +28,9 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
   </p>
 </p>
 
-## About The Project & Demo link
 <!-- DESCRIPCION2 --> <!-- DEMO -->
 <p align="center">
-    <img src="http://sergioalegre.es/Programacion/_BuscadorAJAX/captura.PNG" alt="Logo" width="360" height="">
+    <img src="http://sergioalegre.es/Programacion/terraform.gif" width="360" height="">
   </a>
 </p>
 
