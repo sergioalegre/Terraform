@@ -29,9 +29,15 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 </p>
 
 <!-- DESCRIPCION2 --> <!-- DEMO -->
-<p align="center">
-    <img src="http://sergioalegre.es/Programacion/terraform.gif" width="360" height="">
-  </a>
+<p>
+<b>Webapp cluster AWS<b>
+- Un balanceador Elastic (ELB) para 2 Webservers
+- 2 Webservers (Instancias EC2) para alta disponibilidad
+- Un balanceador para 2 aplication Appservers (ELB)
+- 2 Appservers para alta disponibilidad
+- Un RDS (alta disponibilidad replica sincrona base de datos)
+- Autoscaling group (ASG): para ajuste automático de webservers y Appservers
+- Los grupos de seguridad necesarios para trabajar todo esto junto
 </p>
 
 ## Contact
