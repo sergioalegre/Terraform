@@ -44,6 +44,13 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
   Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/7%20-%20Jobcasestudy%231%20Webapp%20Cluster" target="_blank">AQUÍ</a>
 </p>
 
+<h3>PROYECTOS:</h3>
+<p>
+  <b>#2: NoSQL con DynamoDB en AWS:</b>
+  Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/8%20-%20Jobcasestudy%232%20DynamoDB" target="_blank">AQUÍ</a>
+</p>
+
+
 ## Contact
 Email: sergio.alegre.arribas EN gmail.com
 <br>
