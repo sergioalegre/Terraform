@@ -50,6 +50,11 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
   Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/8%20-%20Jobcasestudy%232%20DynamoDB" target="_blank">AQUÍ</a>
 </p>
 
+<p>
+  <b>#3: Kubernetes cluster using KOPS and Terraform:</b>
+  Ver este proyecto <a href="***********************************************************************************" target="_blank">AQUÍ</a>
+</p>
+
 
 ## Contact
 Email: sergio.alegre.arribas EN gmail.com
