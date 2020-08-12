@@ -30,14 +30,16 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 
 <!-- DESCRIPCION2 --> <!-- DEMO -->
 <p>
-<b>Webapp cluster AWS<b>
-- Un balanceador Elastic (ELB) para 2 Webservers
-- 2 Webservers (Instancias EC2) para alta disponibilidad
-- Un balanceador para 2 aplication Appservers (ELB)
-- 2 Appservers para alta disponibilidad
-- Un RDS (alta disponibilidad replica sincrona base de datos)
-- Autoscaling group (ASG): para ajuste automático de webservers y Appservers
-- Los grupos de seguridad necesarios para trabajar todo esto junto
+<b>Webapp cluster AWS</b>
+<ul style="padding-left: 10%">
+  <li>Un balanceador Elastic (ELB) para 2 Webservers</li>
+  <li>2 Webservers (Instancias EC2) para alta disponibilidad</li>
+  <li>Un balanceador para 2 aplication Appservers</li>
+  <li>2 Appservers para alta disponibilidad</li>
+  <li>Autoscaling group (ASG): para ajuste automático de webservers y Appservers</li>
+  <li>Un RDS (alta disponibilidad replica sincrona base de datos)</li>
+  <li>Los grupos de seguridad necesarios para trabajar todo esto junto</li>
+</ul>
 </p>
 
 ## Contact
