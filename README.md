@@ -31,7 +31,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 
 <h3>PROYECTOS:</h3>
 <p>
-  <b>Webapp cluster AWS</b>
+  <b>#1: Webapp cluster en AWS:</b>
   <ul style="padding-left: 10%">
     <li>Un balanceador Elastic (ELB) para 2 Webservers</li>
     <li>2 Webservers (Instancias EC2) para alta disponibilidad</li>
