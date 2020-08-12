@@ -28,19 +28,20 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
   </p>
 </p>
 
-<!-- DESCRIPCION2 --> <!-- DEMO -->
+
+<h3>PROYECTOS:</h3>
 <p>
-<b>Webapp cluster AWS</b>
-<ul style="padding-left: 10%">
-  <li>Un balanceador Elastic (ELB) para 2 Webservers</li>
-  <li>2 Webservers (Instancias EC2) para alta disponibilidad</li>
-  <li>Un balanceador para 2 aplication Appservers</li>
-  <li>2 Appservers para alta disponibilidad</li>
-  <li>Autoscaling group (ASG): para ajuste automático de webservers y Appservers</li>
-  <li>Un RDS (alta disponibilidad replica sincrona base de datos)</li>
-  <li>Los grupos de seguridad necesarios para trabajar todo esto junto</li>
-</ul>
-Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/7%20-%20Jobcasestudy%231%20Webapp%20Cluster" target="_blank">AQUÍ</a>
+  <b>Webapp cluster AWS</b>
+  <ul style="padding-left: 10%">
+    <li>Un balanceador Elastic (ELB) para 2 Webservers</li>
+    <li>2 Webservers (Instancias EC2) para alta disponibilidad</li>
+    <li>Un balanceador para 2 aplication Appservers</li>
+    <li>2 Appservers para alta disponibilidad</li>
+    <li>Autoscaling group (ASG): para ajuste automático de webservers y Appservers</li>
+    <li>Un RDS (alta disponibilidad replica sincrona base de datos)</li>
+    <li>Los grupos de seguridad necesarios para trabajar todo esto junto</li>
+  </ul>
+  Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/7%20-%20Jobcasestudy%231%20Webapp%20Cluster" target="_blank">AQUÍ</a>
 </p>
 
 ## Contact
