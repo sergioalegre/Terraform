@@ -29,7 +29,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 </p>
 
 
-<h3>PROYECTOS:</h3>
+## PROYECTOS
 <p>
   <b>#1: Webapp cluster en AWS:</b>
   Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/7%20-%20Jobcasestudy%231%20Webapp%20Cluster" target="_blank">AQUÍ</a>
