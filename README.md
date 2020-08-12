@@ -40,6 +40,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
   <li>Un RDS (alta disponibilidad replica sincrona base de datos)</li>
   <li>Los grupos de seguridad necesarios para trabajar todo esto junto</li>
 </ul>
+Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/7%20-%20Jobcasestudy%231%20Webapp%20Cluster" target="_blank">AQUÍ</a>
 </p>
 
 ## Contact
