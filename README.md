@@ -11,7 +11,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
     <img src="http://sergioalegre.es/logo.JPG" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center"><!-- TITULO -->Practicas del Curso de Terraform</h3>
+  <h3 align="center"><!-- TITULO -->Practicas con Terraform en AWS - Azure y GCP</h3>
 
   <p>
     <!-- DESCRIPCION -->Terraform es una herramienta de orquestación de código abierto desarrollado por Hashicorp que nos permite definir nuestra infraestructura como código, esto quiere decir que es posible escribir en un fichero de texto la definición de nuestra infraestructura usando un lenguaje de programación declarativo y simple.
