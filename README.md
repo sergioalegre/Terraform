@@ -19,8 +19,6 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
     Terraform tiene soporte para una gran cantidad de proveedores de infraestructura local o en la nube, Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform o VMware vSphere.
     <br /><br />
     <a href="https://github.com/sergioalegre/Terraform"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     ·
     <a href="https://github.com/sergioalegre/Terraform/issues">Report Bug</a>
     ·
@@ -28,7 +26,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
   </p>
 </p>
 
-<img src="http://sergioalegre.es/github_screenshots/terraform-azure.jpg" alt="Terraform Azure" width="300" >
+<img src="http://sergioalegre.es/github_screenshots/terraform-azure.jpg" alt="Terraform Azure" width="600" >
 
 ## PROYECTOS
 <p>
