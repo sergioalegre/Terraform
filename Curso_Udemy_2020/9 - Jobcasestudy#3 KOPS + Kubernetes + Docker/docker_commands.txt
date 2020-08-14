@@ -1,0 +1,14 @@
+docker version - revisar si esta o no instalado
+docker run hello-world - revisar si docker esta en ejecucion
+service docker status - otra manera de revisar el estado del servicio
+service docker start - iniciar servicio
+
+docker pull ubuntu - descargar imagen de ubuntu del dockerhub
+docker run
+docker run -it -d ubuntu - arrancar la imagen de ubuntu
+docker ps - listar containers en ejecucion
+docker ps -a - lista containers parados
+docker rm
+docker images - imagenes dispobibles en local
+docker stop <container_id> - parar el contenedor con un id concreto
+docker kill <container_id> - parada forzada de un contenedor con un id concreto
