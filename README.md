@@ -28,6 +28,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
   </p>
 </p>
 
+<img src="http://sergioalegre.es/github_screenshots/terraform-azure.jpg" alt="Terraform Azure" width="300" >
 
 ## PROYECTOS
 <p>
