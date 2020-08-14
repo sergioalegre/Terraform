@@ -45,14 +45,32 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
   
 </p>
 
+
 <p>
   <b>#2: NoSQL con DynamoDB en AWS:</b>
   Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/8%20-%20Jobcasestudy%232%20DynamoDB" target="_blank">AQUÍ</a>
 </p>
 
+
 <p>
-  <b>#3: Kubernetes cluster using KOPS and Terraform:</b>
-  Ver este proyecto <a href="***********************************************************************************" target="_blank">AQUÍ</a>
+  <b>#3: KOPS + Kubernetes + Docker: Desplegar Clusters HA con Terraform:</b>
+  Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/9%20-%20Jobcasestudy%233%20KOPS%20%2B%20Kubernetes%20%2B%20Docker" target="_blank">AQUÍ</a>
+  <ul style="padding-left: 10%">
+    <li>KOPS para orquestar el cluster de Kubernetes</li>
+    <li>Kubernetes para gobernar los dockers</li>
+    <li>Bucket S3 en AWS para guardar la config</li>
+    <li>awscli</li>
+  </ul>  
+</p>
+
+
+<p>
+  <b>#4: Desplegar cluster Kubernetes AWS EKS (Elastic Kubernetes Service) con Terraform:</b>
+  Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/10%20-%20Jobcasestudy%234%20AWS%20EKS%20Kubernetes%20cluster" target="_blank">AQUÍ</a>
+  <ul style="padding-left: 10%">
+    <li>kubectl: utilidad</li>
+    <li>aws-iam-authenticator: para comunicar el Master con los Worked nodes</li>
+  </ul>
 </p>
 
 
