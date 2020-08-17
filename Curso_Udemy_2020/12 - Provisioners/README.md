@@ -9,10 +9,10 @@ Tipos:
 - Null resource: aquellos no asociados a una instancia concreta, genéricos
 - Chef: u otra herramienta de terceros de provisioner.
 
-1º - Ejemplo de local-exec:<br>
+1º - Ejemplo de <b>local-exec</b>:<br>
 <img src="ejemplo_local-exec.JPG" width="600">
 
-2º - Ejemplo de remote-exec:<br>
+2º - Ejemplo de <b>remote-exec</b>:<br>
 <img src="ejemplo_remote-exec.JPG" width="600">
 
-3º - Ejemplo de provisioner de tipo file: copia de un archivo del que despliega al desplegado
+3º - Ejemplo de provisioner de tipo <b>file</b> y <b>null resource</b>: copia de un archivo a un entorno ya desplegado
