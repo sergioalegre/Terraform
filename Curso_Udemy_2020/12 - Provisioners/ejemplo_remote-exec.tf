@@ -2,6 +2,8 @@
 
 #Creará la instancia y despues dentro de ella instala un paquete
 
+#como no hemos indicado un security group, usará el por defecto, por lo que esto no funcionara si es default security group no tiene permisos de SSH
+
 resource "aws_instance" "firstdemo" {
   ami = "ami-922914f7"
   instance_type = "t2.micro"
