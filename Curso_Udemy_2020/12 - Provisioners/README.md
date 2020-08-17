@@ -10,7 +10,7 @@ Tipos:
 - Chef: u otra herramienta de terceros de provisioner.
 
 1º - Ejemplo de local-exec:<br>
-<img src="ejemplo_local-exec.JPG" width="400">
+<img src="ejemplo_local-exec.JPG" width="600">
 
 2º - Ejemplo de remote-exec:<br>
-<img src="ejemplo_remote-exec.JPG" width="400">
+<img src="ejemplo_remote-exec.JPG" width="600">
