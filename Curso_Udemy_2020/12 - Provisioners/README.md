@@ -14,3 +14,5 @@ Tipos:
 
 2º - Ejemplo de remote-exec:<br>
 <img src="ejemplo_remote-exec.JPG" width="600">
+
+3º - Ejemplo de provisioner de tipo file: copia de un archivo del que despliega al desplegado
