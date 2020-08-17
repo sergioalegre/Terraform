@@ -10,7 +10,8 @@ Tipos:
 - Chef: u otra herramienta de terceros de provisioner.
 
 1º - Ejemplo de local-exec:<br>
-<img src="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/12%20-%20Provisioners/ejemplo_local-exec.JPG">
+<p><img src="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/12%20-%20Provisioners/ejemplo_local-exec.JPG"></p>
 
 2º - Ejemplo de remote-exec:<br>
-<img src="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/12%20-%20Provisioners/ejemplo_remote-exec.JPG">
+<p><img src="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/12%20-%20Provisioners/ejemplo_remote-exec.JPG"></p>
+
