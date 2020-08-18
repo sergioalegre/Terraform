@@ -11,8 +11,8 @@ Comandos basicos:
 Inventario: /etc/ansible/hosts donde poner los servidores agrupados por rol (webservers, dbservers, ...)
 
 Ejemplos de comandos
-Nota1: si no usamos el -m es que estamos usando el modulo command
-Nota2: -a son los argumentos del comando
+<br>Nota1: si no usamos el -m es que estamos usando el modulo command
+<br>Nota2: -a son los argumentos del comando
 - ansible webservers -a uptime    #Aqui ejecutamos en todos los webservers el comando uptime. es equivalente a -m command -a uptime
 - ansible all -m ping   #usar el modulo ping contra todos los hosts del inventario (y ver que servidores estan levantados)
 - ansible-doc -l    #listar modulos preinstalados
