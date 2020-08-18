@@ -73,6 +73,24 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 </p>
 
 
+<p>
+  <b>#5: Uso de modulos desde archivo local, Github o Terraform Registry</b>
+  Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/11%20-%20Jobcasestudy%235%20Modules%20%2BELB%20%2B%20EC2" target="_blank">AQUÍ</a>
+</p>
+
+
+<p>
+  <b>#6: Desplegar ELK Stack en AWS:</b>
+  Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/13%20-%20Jobcasestudy6%23%20ELK%20Stack" target="_blank">AQUÍ</a>
+  <ul style="padding-left: 10%">
+    <li>Elasticsearch: es un motor de busqueda basado en NoSQL.</li>
+    <li>Logstash: es un agregador de logs capaz de filtrar datos desestructurados de diferentes fuentes</li>
+    <li>Kibana: es una herramienta de visualizaion tipo graphana.</li>
+    <li>Filebeat: file shipper ligero con soporte SSL y TLS</li>
+  </ul>
+</p>
+
+
 ## Contact
 Email: sergio.alegre.arribas EN gmail.com
 <br>
