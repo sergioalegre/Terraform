@@ -31,7 +31,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 ## PROYECTOS
 <p>
   <b>#1: Webapp cluster en AWS:</b>
-  Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/7%20-%20Jobcasestudy%231%20Webapp%20Cluster" target="_blank">AQUÍ</a>
+  ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/7%20-%20Jobcasestudy%231%20Webapp%20Cluster" target="_blank">AQUÍ</a>
   <ul style="padding-left: 10%">
     <li>Un balanceador Elastic (ELB) para 2 Webservers</li>
     <li>2 Webservers (Instancias EC2) para alta disponibilidad</li>
@@ -47,13 +47,13 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 
 <p>
   <b>#2: NoSQL con DynamoDB en AWS:</b>
-  Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/8%20-%20Jobcasestudy%232%20DynamoDB" target="_blank">AQUÍ</a>
+  ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/8%20-%20Jobcasestudy%232%20DynamoDB" target="_blank">AQUÍ</a>
 </p>
 
 
 <p>
   <b>#3: KOPS + Kubernetes + Docker: Desplegar Clusters HA con Terraform:</b>
-  Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/9%20-%20Jobcasestudy%233%20KOPS%20%2B%20Kubernetes%20%2B%20Docker" target="_blank">AQUÍ</a>
+  ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/9%20-%20Jobcasestudy%233%20KOPS%20%2B%20Kubernetes%20%2B%20Docker" target="_blank">AQUÍ</a>
   <ul style="padding-left: 10%">
     <li>KOPS para orquestar el cluster de Kubernetes</li>
     <li>Kubernetes para gobernar los dockers</li>
@@ -65,7 +65,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 
 <p>
   <b>#4: Desplegar cluster Kubernetes AWS EKS (Elastic Kubernetes Service) con Terraform:</b>
-  Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/10%20-%20Jobcasestudy%234%20AWS%20EKS%20Kubernetes%20cluster" target="_blank">AQUÍ</a>
+  ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/10%20-%20Jobcasestudy%234%20AWS%20EKS%20Kubernetes%20cluster" target="_blank">AQUÍ</a>
   <ul style="padding-left: 10%">
     <li>kubectl: utilidad</li>
     <li>aws-iam-authenticator: para comunicar el Master con los Worked nodes</li>
@@ -75,13 +75,13 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 
 <p>
   <b>#5: Uso de modulos desde archivo local, Github o Terraform Registry</b>
-  Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/11%20-%20Jobcasestudy%235%20Modules%20%2BELB%20%2B%20EC2" target="_blank">AQUÍ</a>
+  ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/11%20-%20Jobcasestudy%235%20Modules%20%2BELB%20%2B%20EC2" target="_blank">AQUÍ</a>
 </p>
 
 
 <p>
   <b>#6: Desplegar ELK Stack en AWS:</b>
-  Ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/13%20-%20Jobcasestudy6%23%20ELK%20Stack" target="_blank">AQUÍ</a>
+  ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/13%20-%20Jobcasestudy6%23%20ELK%20Stack" target="_blank">AQUÍ</a>
   <ul style="padding-left: 10%">
     <li>Elasticsearch: es un motor de busqueda basado en NoSQL.</li>
     <li>Logstash: es un agregador de logs capaz de filtrar datos desestructurados de diferentes fuentes</li>
