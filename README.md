@@ -85,7 +85,7 @@ Website: http://me.sergioalegre.es
 ### Built With
 <!-- TECNOLOGIAS -->
 * IaC: Terraform y Ansible
-* Plataformas: Amazon AWS - Google Cloud Platform - Microsoft Azure
+* Plataformas: Amazon AWS - Google Cloud Platform - Microsoft Azure - VMware vSphere
 * Kubernets y Dockers
 
 ## Getting Started
