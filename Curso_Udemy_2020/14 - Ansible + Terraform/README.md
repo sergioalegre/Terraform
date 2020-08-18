@@ -25,4 +25,4 @@ Playbook: un conjunto de tareas a ejecutar en orden. Ej: instalar nginx y luego 
 
 En este ejemplo usaremos Terraform con Ansible para desplegar una instancia y luego con un provisioner 'local-exec' llamar a un playbook de ansible
 
-<img src="Terraform+Ansible.JPG">
+<img src="Terraform+AnsibleJPG.JPG">
