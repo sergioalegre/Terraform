@@ -1,6 +1,6 @@
 Basado en https://www.udemy.com/course/terraform-indepth-with-7-realtime-casestudies/learn/lecture/12782747#questions
 
-Ansible: Plataforma de software libre para configurar y administrar ordenadores, ejecuciones de tareas ad hoc y administración de configuraciones. Adicionalmente, Ansible es categorizado como una herramienta de orquestación. Gestiona nodos a través de SSH y no requiere ningún software remoto adicional (excepto Python 2.4 o posterior​) para instalarlo. Dispone de módulos que trabajan sobre JSON. Nativamente utiliza YAML para describir configuraciones reusables de los sistemas.
+Ansible: Plataforma de software libre para configurar y administrar ordenadores, ejecuciones de tareas ad hoc y administración de configuraciones. Adicionalmente, Ansible es categorizado como una herramienta de orquestación. Gestiona nodos a través de SSH y no requiere ningún software remoto adicional (excepto Python 2.4 o posterior) para instalarlo. Dispone de módulos que trabajan sobre JSON. Nativamente utiliza YAML para describir configuraciones reusables de los sistemas.
 
 Comandos basicos:
 - ansible --help
@@ -19,7 +19,7 @@ Ejemplos de comandos
 - ansible-doc -l | grep -i netapp  #ver modulos preinstalados con la descripcion 'netapp'
 - ansible-doc azure_rm_storageblob  #ver la documentacion de un modulo concreto
 - ansible all -a "yum -y install httpd"   #instalar a todos el paquete httpd
-- ansible *APP* -m copy -a "src=/temp/archivo.txt dest=/tmp/archivo1.txt"   #usar el modulo copy para copiar un archivo a todos los servers *APP*
+- ansible **APP** -m copy -a "src=/temp/archivo.txt dest=/tmp/archivo1.txt"   #usar el modulo copy para copiar un archivo a todos los servers **APP**
 
 Playbook: un conjunto de tareas a ejecutar en orden. Ej: instalar nginx y luego configurarlo y luego arrancarlo.
 
