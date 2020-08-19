@@ -2,7 +2,7 @@ Basado en https://www.udemy.com/course/terraform-indepth-with-7-realtime-casestu
 
 **Ansible**: Plataforma de software libre para configurar y administrar ordenadores, ejecuciones de tareas ad hoc y administración de configuraciones. Adicionalmente, Ansible es categorizado como una herramienta de orquestación. Gestiona nodos a través de SSH y no requiere ningún software remoto adicional (excepto Python 2.4 o posterior) para instalarlo. Dispone de módulos que trabajan sobre JSON. Nativamente utiliza YAML para describir configuraciones reusables de los sistemas.
 
-Comandos basicos:
+**Comandos basicos**:
 - _ansible --help_
 - _ansible --version_
 - _ansible --list-hosts all_    #ver todos los hosts que Ansible tiene inventariados
@@ -10,7 +10,7 @@ Comandos basicos:
 
 Inventario: /etc/ansible/hosts donde poner los servidores agrupados por rol (webservers, dbservers, ...)
 
-Ejemplos de comandos
+Ejemplos de comandos:
 <br>Nota1: si no usamos el -m es que estamos usando el modulo command
 <br>Nota2: -a son los argumentos del comando
 - _ansible webservers -a uptime_    #Aqui ejecutamos en todos los webservers el comando uptime. es equivalente a -m command -a uptime
