@@ -19,7 +19,7 @@ Ejemplos de comandos
 - ansible-doc -l | grep -i netapp  #ver modulos preinstalados con la descripcion 'netapp'
 - ansible-doc azure_rm_storageblob  #ver la documentacion de un modulo concreto
 - ansible all -a "yum -y install httpd"   #instalar a todos el paquete httpd
-- ansible **APP** -m copy -a "src=/temp/archivo.txt dest=/tmp/archivo1.txt"   #usar el modulo copy para copiar un archivo a todos los servers **APP**
+- ansible <em>APP<em> -m copy -a "src=/temp/archivo.txt dest=/tmp/archivo1.txt"   #usar el modulo copy para copiar un archivo a todos los servers <em>APP<em>
 
 Playbook: un conjunto de tareas a ejecutar en orden. Ej: instalar nginx y luego configurarlo y luego arrancarlo.
 
