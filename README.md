@@ -90,6 +90,24 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
   </ul>
 </p>
 
+<p>
+  <b>#6: Aurora Cluster: DBaaS de alto rendimiento</b>
+  ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/16%20-%20Jobcasestudy%237%20Aurora%20DB%20Cluster" target="_blank">AQUÍ</a>
+  <ul style="padding-left: 10%">
+    <li>Aurora Cluster: Aurora forma parte del servicio de bases de datos administradas Amazon Relational Database Service (Amazon RDS). Recomendado para alto performance y muy seguro debido a las 6 copias que distribuye en 3 zonas de disponisblidad diferentes.</li>
+    <li>Beneficios:</li>
+    <ul>
+      <li>Hasta 5x veces mas potente gracias al log-based-storage</li>
+      <li>es una arquitectura sin apenas lag de replicación</li>
+      <li>Multi AZ (availability zone) deploy</li>
+      <li>Backup automáticos</li>
+      <li>Si necesita espacio se extiende automáticamente, hasta 64Tb.</li>
+      <li>Autoscaling</li>
+      <li>Escribir en MySQL implica: 1º escribir en log, 2º escribir en binlog, 3º escribir en FRM, 4º doble escritura en buffer. Aurora directamente escribe en el almacenamiento (log-based-storage) no en ficheros.</li>
+      <li>Failover minimo comparado con el de MySQL.</li>
+  </ul>
+</p>
+
 
 ## Contact
 Email: sergio.alegre.arribas EN gmail.com
