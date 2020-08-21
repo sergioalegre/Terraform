@@ -4,7 +4,7 @@ Provisioners:Para ejecutar comandos locales o remotos para configurar servidores
 
 Tipos:
 - local-exec: ejecutados en local
-- file: copiar archivos de local a la instancia desplegada
+- file: copiar archivos o contenido a archivos desde local a la instancia desplegada
 - remote-exec: ejecutados en la instancia desplegada
 - Null resource: aquellos no asociados a una instancia concreta, genéricos
 - Chef: u otra herramienta de terceros de provisioner.
