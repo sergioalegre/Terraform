@@ -3,11 +3,11 @@ Basado en https://www.udemy.com/course/terraform-indepth-with-7-realtime-casestu
 Provisioners:Para ejecutar comandos locales o remotos para configurar servidores una vez desplegados. Tambien se pueden ejecutar Ansible playbooks para alcanzar la configuración deseada.
 
 Tipos:
-- local-exec: ejecutados en local
-- file: copiar archivos o contenido a archivos desde local a la instancia desplegada
-- remote-exec: ejecutados en la instancia desplegada
-- Null resource: aquellos no asociados a una instancia concreta, genéricos
-- Chef: u otra herramienta de terceros de provisioner.
+- <b>local-exec</b>: ejecutados en local
+- <b>file</b>: copiar archivos o contenido a archivos desde local a la instancia desplegada
+- <b>remote-exec</b>: ejecutados en la instancia desplegada
+- <b>Null resource</b>: aquellos no asociados a una instancia concreta, genéricos
+- <b>Chef</b>: u otra herramienta de terceros de provisioner.
 
 1º - Ejemplo de <b>local-exec</b>:<br>
 <img src="ejemplo_local-exec.JPG" width="600">
