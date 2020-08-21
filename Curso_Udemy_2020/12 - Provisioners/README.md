@@ -1,6 +1,6 @@
 Basado en https://www.udemy.com/course/terraform-indepth-with-7-realtime-casestudies/learn/lecture/11073128#questions
 
-Provisioners:Para ejecutar comandos locales o remotos para configurar servidores una vez desplegados. Tambien se pueden ejecutar Ansible playbooks para alcanzar la configuración deseada.
+Provisioners: Para ejecutar comandos locales o remotos para configurar servidores una vez desplegados. Tambien se pueden invocar Ansible playbooks para alcanzar la configuración deseada.
 
 Tipos:
 - <b>local-exec</b>: ejecutados en local
