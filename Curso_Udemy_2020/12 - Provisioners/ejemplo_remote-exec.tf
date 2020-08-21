@@ -1,6 +1,6 @@
+#Creará la instancia y despues dentro de ella ejecutará comandos
 #Basado en https://www.udemy.com/course/terraform-indepth-with-7-realtime-casestudies/learn/lecture/11064210#questions
-
-#Creará la instancia y despues dentro de ella instala un paquete
+#IMPORTANTE: para usar remote-exec es obligatorio que el security group que usemos permita comunicacion en el puerto 22
 
 resource "aws_instance" "firstdemo" {
   ami = "ami-922914f7"
