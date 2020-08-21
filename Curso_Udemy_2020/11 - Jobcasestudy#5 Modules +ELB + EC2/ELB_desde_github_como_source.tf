@@ -3,7 +3,7 @@
 #desplegaremos un balanceador elastic_load_balancer desde module
 
 module "elb_http" {
-source = "github.com/terraform-aws-modules/terraform-aws-elb.git" #modulo desde github
+source = "github.com/terraform-aws-modules/terraform-aws-elb.git" #modulo desde github IMPORTANTE ho hay que poner en la ruta HTTPS es directamente github.com
 name = "elb1"
 internal = "false"
 subnets = ["subnet-a4a922cc", "subnet-8dcf0cf7"]
