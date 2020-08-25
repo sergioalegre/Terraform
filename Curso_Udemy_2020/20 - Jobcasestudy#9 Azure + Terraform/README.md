@@ -4,13 +4,8 @@ Basado: https://www.udemy.com/course/terraform-indepth-with-7-realtime-casestudi
 En este ejemplo con Azure desplegaremos una webapp compuesta de:
 - 1x resource group: azurerm_resource_group
 - 1x virtual network (el equivalente a VPC de Amazon): azurerm_virtual_network
-- 1x IP publica: azurerm_public_ip
 - 1x security group
 - 1x balanceador HTTP y sus tests
-- nx VM como frontend con autoescalado
+- 1x IP publica para el frontend del balanceador: azurerm_public_ip
+- 2x VM
 - 1x backend MySQL
-- 1x instance_group + nx instancias + opciones de Autoscaling (instance_group.tf + instance template.tf)
-- 1x google_sql_database_instance 'Master' + 1x google_sql_database_instance 'Replica' (sql.tf)
-- 1x VPC network (network.tf)
-- Reglas de firewall (firewall.tf)
-- ejecutaremos scripts postproceso sobre las instancias una vez desplegadas (userdata.sh)
