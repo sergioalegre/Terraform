@@ -41,14 +41,13 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
     <li>Un RDS (alta disponibilidad replica sincrona base de datos)</li>
     <li>Los grupos de seguridad necesarios para trabajar todo esto junto</li>
   </ul>
-  
-</p>
+</p><br>
 
 
 <p>
   <b>#2: NoSQL con DynamoDB en AWS y terraform:</b>
   ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/8%20-%20Jobcasestudy%232%20DynamoDB" target="_blank">AQUÍ</a>
-</p>
+</p><br>
 
 
 <p>
@@ -60,7 +59,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
     <li>Bucket S3 en AWS para guardar la config</li>
     <li>awscli</li>
   </ul>  
-</p>
+</p><br>
 
 
 <p>
@@ -70,13 +69,13 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
     <li>kubectl: utilidad</li>
     <li>aws-iam-authenticator: para comunicar el Master con los Worked nodes</li>
   </ul>
-</p>
+</p><br>
 
 
 <p>
   <b>#5: Uso de 'modules' desde archivo local, Github o Terraform Registry</b>
   ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/11%20-%20Jobcasestudy%235%20Modules%20%2BELB%20%2B%20EC2" target="_blank">AQUÍ</a>
-</p>
+</p><br>
 
 
 <p>
@@ -88,7 +87,8 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
     <li>Kibana: es una herramienta de visualizaion tipo graphana.</li>
     <li>Filebeat: file shipper ligero con soporte SSL y TLS</li>
   </ul>
-</p>
+</p><br>
+
 
 <p>
   <b>#6: Aurora Cluster: DBaaS de alto rendimiento</b>
@@ -107,7 +107,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
       <li>Failover minimo comparado con el de MySQL.</li>
   </ul>
  </ul>
-</p>
+</p><br>
 
 
 <p>
@@ -120,9 +120,8 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
     <li>1x VPC network (network.tf)</li>
     <li>Reglas de firewall (firewall.tf)</li>
     <li>ejecutaremos scripts postproceso sobre las instancias una vez desplegadas (userdata.sh)</li>
-
   </ul>
-</p>
+</p><br>
 
 
 <p>
@@ -137,7 +136,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
     <li>2x VM</li>
     <li>1x backend MySQL</li>
   </ul>
-</p>
+</p><br>
 
 
 ## Contact
