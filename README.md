@@ -106,6 +106,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
       <li>Escribir en MySQL implica: 1º escribir en log, 2º escribir en binlog, 3º escribir en FRM, 4º doble escritura en buffer. Aurora directamente escribe en el almacenamiento (log-based-storage) no en ficheros.</li>
       <li>Failover minimo comparado con el de MySQL.</li>
   </ul>
+ </ul>
 </p>
 
 
