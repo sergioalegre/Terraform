@@ -91,7 +91,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 
 
 <p>
-  <b>#6: Aurora Cluster: DBaaS de alto rendimiento</b>
+  <b>#7: Aurora Cluster: DBaaS de alto rendimiento</b>
   ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/16%20-%20Jobcasestudy%237%20Aurora%20DB%20Cluster" target="_blank">AQUÍ</a>
   <ul style="padding-left: 10%">
     <li>Aurora Cluster: Aurora forma parte del servicio de bases de datos administradas Amazon Relational Database Service (Amazon RDS). Recomendado para alto performance y muy seguro debido a las 6 copias que distribuye en 3 zonas de disponisblidad diferentes.</li>
@@ -111,7 +111,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 
 
 <p>
-  <b>#7: WebApp cluster en Google Cloud Platform con Terraform</b>
+  <b>#8: WebApp cluster en Google Cloud Platform con Terraform</b>
   ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/19%20-%20Jobcasestudy%238%20Google%20Cloud%20Platform%20%2B%20Terraform" target="_blank">AQUÍ</a>
   <ul style="padding-left: 10%">
     <li>1x balanceador HTTP (load_balancer.tf)</li>
@@ -125,7 +125,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 
 
 <p>
-  <b>#8: WebApp stack en Azure con Terraform</b>
+  <b>#9: WebApp stack en Azure con Terraform</b>
   ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/20%20-%20Jobcasestudy%239%20Azure%20%2B%20Terraform" target="_blank">AQUÍ</a>
   <ul style="padding-left: 10%">
     <li>1x resource group: azurerm_resource_group</li>
