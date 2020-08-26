@@ -14,7 +14,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
   <h3 align="center"><!-- TITULO -->Practicas con Terraform en: AWS - Azure - GCP - vSphere</h3>
 
   <p>
-    <!-- DESCRIPCION -->Terraform es una herramienta de orquestación de código abierto desarrollado por Hashicorp que nos permite definir nuestra infraestructura como código, esto quiere decir que es posible escribir en un fichero de texto la definición de nuestra infraestructura usando un lenguaje de programación declarativo y simple.
+    <!-- DESCRIPCION -->Terraform es una herramienta de orquestación de código abierto que nos permite definir nuestra <b>infraestructura como código</b>, esto quiere decir que es posible escribir en un fichero de texto la definición de nuestra infraestructura usando un lenguaje de programación declarativo y simple.
     <br>
     Terraform tiene soporte para una gran cantidad de proveedores de infraestructura local o en la nube, <b>Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform o VMware vSphere</b>.
     <br /><br />
@@ -46,13 +46,13 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 
 
 <p>
-  <b>#2: NoSQL con DynamoDB en AWS:</b>
+  <b>#2: NoSQL con DynamoDB en AWS y terraform:</b>
   ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/8%20-%20Jobcasestudy%232%20DynamoDB" target="_blank">AQUÍ</a>
 </p>
 
 
 <p>
-  <b>#3: KOPS + Kubernetes + Docker: Desplegar Clusters HA con Terraform:</b>
+  <b>#3: KOPS + Kubernetes + Docker: Clusters HA con Terraform:</b>
   ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/9%20-%20Jobcasestudy%233%20KOPS%20%2B%20Kubernetes%20%2B%20Docker" target="_blank">AQUÍ</a>
   <ul style="padding-left: 10%">
     <li>KOPS para orquestar el cluster de Kubernetes</li>
@@ -64,7 +64,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 
 
 <p>
-  <b>#4: Desplegar cluster Kubernetes AWS EKS (Elastic Kubernetes Service) con Terraform:</b>
+  <b>#4: Cluster Kubernetes AWS EKS (Elastic Kubernetes Service) con Terraform:</b>
   ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/10%20-%20Jobcasestudy%234%20AWS%20EKS%20Kubernetes%20cluster" target="_blank">AQUÍ</a>
   <ul style="padding-left: 10%">
     <li>kubectl: utilidad</li>
@@ -74,13 +74,13 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 
 
 <p>
-  <b>#5: Uso de modulos desde archivo local, Github o Terraform Registry</b>
+  <b>#5: Uso de 'modules' desde archivo local, Github o Terraform Registry</b>
   ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/11%20-%20Jobcasestudy%235%20Modules%20%2BELB%20%2B%20EC2" target="_blank">AQUÍ</a>
 </p>
 
 
 <p>
-  <b>#6: Desplegar ELK Stack en AWS:</b>
+  <b>#6: ELK Stack (agregador de logs) en AWS:</b>
   ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/13%20-%20Jobcasestudy6%23%20ELK%20Stack" target="_blank">AQUÍ</a>
   <ul style="padding-left: 10%">
     <li>Elasticsearch: es un motor de busqueda basado en NoSQL.</li>
