@@ -109,6 +109,36 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 </p>
 
 
+<p>
+  <b>#7: WebApp cluster en Google Cloud Platform con Terraform</b>
+  ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/19%20-%20Jobcasestudy%238%20Google%20Cloud%20Platform%20%2B%20Terraform" target="_blank">AQUÍ</a>
+  <ul style="padding-left: 10%">
+    <li>1x balanceador HTTP (load_balancer.tf)</li>
+    <li>1x instance_group + nx instancias + opciones de Autoscaling (instance_group.tf + instance template.tf)</li>
+    <li>1x google_sql_database_instance 'Master' + 1x google_sql_database_instance 'Replica' (sql.tf)</li>
+    <li>1x VPC network (network.tf)</li>
+    <li>Reglas de firewall (firewall.tf)</li>
+    <li>ejecutaremos scripts postproceso sobre las instancias una vez desplegadas (userdata.sh)</li>
+
+  </ul>
+</p>
+
+
+<p>
+  <b>#8: WebApp stack en Azure con Terraform</b>
+  ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/20%20-%20Jobcasestudy%239%20Azure%20%2B%20Terraform" target="_blank">AQUÍ</a>
+  <ul style="padding-left: 10%">
+    <li>1x resource group: azurerm_resource_group</li>
+    <li>1x virtual network (el equivalente a VPC de Amazon): azurerm_virtual_network</li>
+    <li>1x security group</li>
+    <li>1x balanceador HTTP y sus tests</li>
+    <li>1x IP publica para el frontend del balanceador: azurerm_public_ip</li>
+    <li>2x VM</li>
+    <li>1x backend MySQL</li>
+  </ul>
+</p>
+
+
 ## Contact
 Email: sergio.alegre.arribas EN gmail.com
 <br>
