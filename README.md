@@ -14,7 +14,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
   <h3 align="center"><!-- TITULO -->Practicas con Terraform en: AWS - Azure - GCP - vSphere</h3>
 
   <p>
-    <!-- DESCRIPCION -->Terraform es una herramienta de orquestación de código abierto que nos permite definir nuestra <b>infraestructura como código</b>, esto quiere decir que es posible escribir en un fichero de texto la definición de nuestra infraestructura usando un lenguaje de programación declarativo y simple.
+    <!-- DESCRIPCION -->Terraform es una herramienta de orquestación de código abierto que nos permite definir nuestra <b>infraestructura como código declarativo</b>, esto quiere decir que es posible escribir en un fichero de texto la definición de nuestra infraestructura usando un lenguaje de programación simple.
     <br>
   Al ser declarativo solo nos hemos de preocupar del estado deseado y no de los pasos intermedios o de su orden. Solo hemos de decir que queremos.
   <br>
