@@ -18,3 +18,7 @@ Basado https://miquelmariano.github.io/2020/01/15/instalacion-ansible-awx-docker
 - pip3 install docker-compose
 - ansible-playbook -i inventory install.yml
 - docker ps
+
+
+<br><br>
+Las credenciales por defecto son: admin-password
