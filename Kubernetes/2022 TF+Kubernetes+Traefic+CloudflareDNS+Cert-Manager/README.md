@@ -10,8 +10,8 @@
   <h3 align="center"><!-- TITULO -->Terraform + Kubernetes + HELM + Traefic + CLoudflare + NGNIX</h3>
 
   <p>
-    <!-- DESCRIPCION -->Basado en
-    Faltaria el archivo 'credentails.auto.tfvars' con las credenciales privadas <a href="https://www.youtube.com/watch?v=kFt0OGd_LhI"><strong>Caso 2022</strong></a>
+    <!-- DESCRIPCION -->Basado en <a href="https://www.youtube.com/watch?v=kFt0OGd_LhI"><strong>Caso 2022</strong></a>
+    Nota: Falta el archivo 'credentails.auto.tfvars' con las credenciales privadas 
   </p>
 </p>
 
@@ -30,7 +30,7 @@
   </ul>
 </p><br>
 
-img src="1_Kubernetes_Size.JPG" alt="Terraform+Kubernets" width="600" >    
+<img src="1_Kubernetes_Size.JPG" alt="Terraform+Kubernets" width="600" >    
 
 ### Built With
 <!-- TECNOLOGIAS -->
