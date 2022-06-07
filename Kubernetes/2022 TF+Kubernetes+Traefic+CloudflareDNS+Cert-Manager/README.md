@@ -1,10 +1,3 @@
-#Basado en https://www.youtube.com/watch?v=kFt0OGd_LhI
-
-# faltaria el archivo 'credentails.auto.tfvars' con las credenciales privadas
-
-# Usaremos HELM para desplegar aplicativos (traefik, ) dentro del cluster de Kubernetes
-
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -18,7 +11,7 @@
 
   <p>
     <!-- DESCRIPCION -->Basado en
-    <a href="https://www.youtube.com/watch?v=kFt0OGd_LhI"><strong>Caso 2022</strong></a>
+    Faltaria el archivo 'credentails.auto.tfvars' con las credenciales privadas <a href="https://www.youtube.com/watch?v=kFt0OGd_LhI"><strong>Caso 2022</strong></a>
   </p>
 </p>
 
@@ -29,10 +22,7 @@
   <b>Cluster Terraform de 2 nodos con HELM para desplegar aplicativos, Traefic de balanceador, Cloudflare de DNS y Nginx de Web server:</b>
   ver este proyecto <a href="https://www.youtube.com/watch?v=kFt0OGd_LhI" target="_blank">AQUÍ</a>
   <ul style="padding-left: 10%">
-    <li>Un Cluster Kubernetes de 2 nodos
-        <img src="1_Kubernetes_Size.JPG" alt="Terraform+Kubernets" width="600" >
-    </li>
-
+    <li>Un Cluster Kubernetes de 2 nodos</li>
     <li>HELM</li>
     <li>Traefic</li>
     <li>CloudflareDNS</li>
@@ -40,6 +30,7 @@
   </ul>
 </p><br>
 
+img src="1_Kubernetes_Size.JPG" alt="Terraform+Kubernets" width="600" >    
 
 ### Built With
 <!-- TECNOLOGIAS -->
