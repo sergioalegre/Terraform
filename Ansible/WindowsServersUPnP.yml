@@ -1,0 +1,7 @@
+---
+- hosts: WindowsServers
+  tasks: 
+   - name: Stop service UPnP
+     win_service:
+       name: upnphost
+       state: start
