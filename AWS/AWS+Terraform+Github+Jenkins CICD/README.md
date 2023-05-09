@@ -19,10 +19,10 @@ Here's the architecture diagram:
 In this project, I set up infrastructure on the AWS cloud using Terraform. The infrastructure includes 4 web servers and 2 database instances. The specific tasks done include:
 
 ### Tasks:
-Writing a Terraform Script that provisions the servers and databases in a highly available environment.
-Uniquely naming each instance and Install Apache on the instances
-Pushing the Terraform script to GitHub for version control.
-Creating a Jenkins job that automatically detects changes in the terraform script on GitHub and deploys the changes.
+- Writing a Terraform Script that provisions the servers and databases in a highly available environment.
+- Uniquely naming each instance and Install Apache on the instances
+- Pushing the Terraform script to GitHub for version control.
+- Creating a Jenkins job that automatically detects changes in the terraform script on GitHub and deploys the changes.
 
 
 ## Project Execution
