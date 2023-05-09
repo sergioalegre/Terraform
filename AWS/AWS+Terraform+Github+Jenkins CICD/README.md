@@ -11,9 +11,7 @@ The infrastructure includes 4 web servers and 2 databases. The requirements are:
 To meet the requirements, the 4 web servers will be created in 2 public subnets in 2 different 
 availability zones while the database instances will be created in 2 private subnets in 2 availabilty zones as the web servers. 
 
-Here's the architecture diagram:
-
-![Architectural Diagram for Startup)](https://github.com/sergioalegre/Terraform/AWS+Terraform+Github+Jenkins CICD.png)
+![Architectural Diagram for Startup)](https://github.com/sergioalegre/Terraform/blob/master/AWS/AWS%2BTerraform%2BGithub%2BJenkins%20CICD/AWS%2BTerraform%2BGithub%2BJenkinsCICD.png)
 
 ## Introduction
 In this project, I set up infrastructure on the AWS cloud using Terraform. The infrastructure includes 4 web servers and 2 database instances. The specific tasks done include:
