@@ -13,13 +13,15 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 
   <h3 align="center"><!-- TITULO -->Proyectos Terraform en: AWS - Azure - GCP - VMWare - Kubernetes</h3>
 
-  [#AWS](#Azure)
+  [#AWS](#AWS)
 
-  [#Azure](#Generic)
+  [#Azure](#Azure)
 
-  [#GCP](#Hacking)
+  [#GCP](#GCP)
 
-  [#VMWare](#OS)
+  [#VMWare](#VMWare)
+
+  [#Kubernetes](#Kubernetes)
 
   ------------
 
@@ -145,7 +147,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 
 ## Kubernetes
 
-## Contact
+### Contact
 Email: sergio.alegre.arribas EN gmail.com
 <br>
 LinkedIn: https://www.linkedin.com/in/sergioalegre
