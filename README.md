@@ -11,26 +11,23 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
     <img src="http://sergioalegre.es/logo.JPG" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center"><!-- TITULO -->Practicas con Terraform en: AWS - Azure - GCP - vSphere</h3>
+  <h3 align="center"><!-- TITULO -->Proyectos Terraform en: AWS - Azure - GCP - VMWare - Kubernetes</h3>
 
-  <p>
-    <!-- DESCRIPCION -->Terraform es una herramienta de orquestación de código abierto que nos permite definir nuestra <b>infraestructura como código declarativo</b>, esto quiere decir que es posible escribir en un fichero de texto la definición de nuestra infraestructura usando un lenguaje de programación simple.
-    <br>
-  Al ser declarativo solo nos hemos de preocupar del estado deseado y no de los pasos intermedios o de su orden. Solo hemos de decir que queremos. Lo que tambien implica que puede darnos 'perse' un inventario, versionado y la gestión del cambio (CMDB).
-  <br>
-    Terraform tiene soporte para una gran cantidad de proveedores de infraestructura local o en la nube, <b>Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform o VMware vSphere</b>.
-    <br /><br />
-    <a href="https://github.com/sergioalegre/Terraform"><strong>Explore the docs »</strong></a>
-    ·
-    <a href="https://github.com/sergioalegre/Terraform/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/sergioalegre/Terraform/issues">Request Feature</a>
-  </p>
+  [#AWS](#Azure)
+
+  [#Azure](#Generic)
+
+  [#GCP](#Hacking)
+
+  [#VMWare](#OS)
+
+  ------------
+
 </p>
 
 <p align="center"><img src="https://sergioalegre.es/github_screenshots/terraform-azure.jpg" alt="Terraform Azure" width="600" ></p>
 
-## PROYECTOS
+## AWS
 <p>
   <b>#1: Webapp cluster en AWS:</b>
   ver este proyecto <a href="https://github.com/sergioalegre/Terraform/tree/master/Curso_Udemy_2020/7%20-%20Jobcasestudy%231%20Webapp%20Cluster" target="_blank">AQUÍ</a>
@@ -140,6 +137,13 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
   </ul>
 </p><br>
 
+## Azure
+
+## GCP
+
+## VMWare
+
+## Kubernetes
 
 ## Contact
 Email: sergio.alegre.arribas EN gmail.com
