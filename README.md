@@ -24,10 +24,8 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
   [#Kubernetes](#Kubernetes)
 
   ------------
-
 </p>
 
-<p align="center"><img src="https://sergioalegre.es/github_screenshots/terraform-azure.jpg" alt="Terraform Azure" width="600" ></p>
 
 ## AWS
 <p>
