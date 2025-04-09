@@ -8,7 +8,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 <br />
 <p align="center">
   <a href="https://github.com/sergioalegre/Terraform">
-    <img src="http://sergioalegre.es/logo.JPG" alt="Logo" width="80" height="80">
+    <img src="https://sergioalegre.es/logo.JPG" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"><!-- TITULO -->Proyectos Terraform en: AWS - Azure - GCP - VMWare - Kubernetes</h3>
